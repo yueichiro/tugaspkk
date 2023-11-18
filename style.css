@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(0, 0, 0);
+    margin-top: 150px;
+    margin-left: 70px;
+    margin-right: 35px;
+}
+input {
+    display: flex;
+    flex-direction: column;
+    padding: 14px 50px;
+    border-radius: 5px;
+}
+button {
+    display: flex;
+}
+h1 {
+    color: #ffffff;
+}
+.center {
+    display: flex;
+    justify-content: space-between;
+}
+.button button{
+    padding: 10px 115px;
+    color: #ffffff;
+    background-color: #BC4400;
+    border-radius: 5px;
+}
